@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Noor ul Quran Academy | Learn Quran Online with Tajweed</title>
+<meta name="description" content="Noor ul Quran Academy - One-to-one online Quran classes with Tajweed for kids and adults.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;800&family=Poppins:wght@400;500;600&family=Amiri:wght@400;700&family=Noto+Nastaliq+Urdu:wght@400;600&family=Cairo:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- TOP BAR -->
+<div class="topbar">
+  <div class="container topbar-in">
+    <div class="tb-left">
+      <span>📞 +351932881644</span>
+      <span>✉️ infonoorulquranofficial@gmail.com</span>
+      <span>🌍 <span data-i18n="serving">Serving Students All Euorope</span></span>
+    </div>
+    <div class="tb-right">
+      <div class="lang">
+        <button data-lang="en" class="active">EN</button>
+        <button data-lang="ur">اردو</button>
+        <button data-lang="ar">عربي</button>
+      </div>
+      <a href="#" aria-label="Facebook" class="soc">f</a>
+      <a href="#" aria-label="Instagram" class="soc">in</a>
+    
+    </div>
+  </div>
+</div>
+
+<!-- HEADER -->
+<header class="header">
+  <div class="container nav-in">
+    <a href="#home" class="brand">
+      <img src="logo.png" alt="" onerror="this.style.display='none'">
+      <div>
+        <div class="brand-name">Noor ul Quran</div>
+        <div class="brand-sub" data-i18n="brand_sub">ACADEMY</div>
+      </div>
+    </a>
+    <button class="burger" id="burger" aria-label="Menu">☰</button>
+    <nav id="nav">
+      <a href="#home" data-i18n="nav_home">Home</a>
+      <a href="#about" data-i18n="nav_about">About Us</a>
+      <a href="#courses" data-i18n="nav_courses">Courses</a>
+      <a href="#teacher" data-i18n="nav_teachers">Teachers</a>
+      <a href="#reviews" data-i18n="nav_reviews">Reviews</a>
+      <a href="#pricing" data-i18n="nav_pricing">Pricing</a>
+      <a href="#contact" data-i18n="nav_contact">Contact Us</a>
+    </nav>
+    <a href="#contact" class="btn btn-dark hide-m" data-i18n="btn_trial">📅 Book Free Trial Class</a>
+  </div>
+</header>
+
+<!-- HERO -->
+<section class="hero" id="home">
+  <div class="container hero-in">
+    <div class="hero-text">
+      <h1><span data-i18n="h1a">Learn Quran Online</span><br><em data-i18n="h1b">with Tajweed</em></h1>
+      
+
+<h3 class="hero-subtitle">
+  Learn the Holy Quran with Qualified Hafiz Ishaq
+</h3>
+      
+      <ul class="ticks">
+        <li data-i18n="hb1">Noorani Qaida to Quran &amp; Tajweed</li>
+        <li data-i18n="hb2">Hifz-ul-Quran &amp; Islamic Studies</li>
+        <li data-i18n="hb3">Flexible Timings for All Countries</li>
+        <li data-i18n="hb4">Safe, Friendly &amp; Interactive Classes</li>
+      </ul>
+      <div class="hero-btns">
+        <a href="#contact" class="btn btn-dark" data-i18n="btn_trial">📅 Book Free Trial Class</a>
+        <a href="https://wa.me/+351932881644" target="_blank" class="btn btn-outline" data-i18n="btn_wa">💬 Chat on WhatsApp</a>
+      </div>
+    </div>
+
+    <div class="hero-img">
+      <div class="ayah-box">
+        <div class="ayah-ar">اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ</div>
+        <div class="ayah-tr" data-i18n="ayah_tr">Read in the name of your Lord who created.</div>
+        <small>(Surah Al-'Alaq 96:1)</small>
+      </div>
+      <!-- PUT YOUR HERO PICTURE: cta.png -->
+      <img src="poi.png" alt="Child learning Quran online" onerror="this.style.display='none'">
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="stats">
+      <div><b>🎓</b><strong>500+</strong><span data-i18n="st1">Happy Students</span></div>
+      <div><b>👨‍🏫</b><strong>20+</strong><span data-i18n="st2">Qualified Teachers</span></div>
+      <div><b>🌍</b><strong>15+</strong><span data-i18n="st3">Countries</span></div>
+      <div><b>🎧</b><strong>24/7</strong><span data-i18n="st4">Support</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- ABOUT -->
+<section class="section" id="about">
+  <div class="container about-in">
+    <div class="about-img">
+      <!-- PICTURE: about.jpg -->
+      <img src="banner.jpg" alt="About Noor ul Quran Academy" onerror="this.style.display='none'">
+    </div>
+    <div>
+      <h2 class="title" data-i18n="about_t">About Noor ul Quran Academy</h2>
+      <p data-i18n="about_p1">Noor ul Quran Academy offers authentic Quran education from the comfort of your home. Our qualified teachers teach with patience, love and proper Tajweed.</p>
+      <p data-i18n="about_p2">We welcome children and adults from all over the Euorope, with flexible timings, personal attention and monthly progress reports.</p>
+    </div>
+  </div>
+</section>
+
+<!-- COURSES -->
+<section class="section alt" id="courses">
+  <div class="container">
+    <h2 class="title center" data-i18n="courses_t">Our Courses</h2>
+    <div class="grid6">
+      <div class="card"><div class="ic">📖</div><h3 data-i18n="c1">Noorani Qaida</h3><p data-i18n="c1d">Perfect for beginners of all ages.</p></div>
+      <div class="card"><div class="ic">📜</div><h3 data-i18n="c2">Quran Reading</h3><p data-i18n="c2d">Learn to read Quran fluently.</p></div>
+      <div class="card"><div class="ic">🌙</div><h3 data-i18n="c3">Quran with Tajweed</h3><p data-i18n="c3d">Read Quran with proper Tajweed rules.</p></div>
+      <div class="card"><div class="ic">🕋</div><h3 data-i18n="c4">Hifz-ul-Quran</h3><p data-i18n="c4d">Memorize Quran with easy &amp; effective methods.</p></div>
+      <div class="card"><div class="ic">🕌</div><h3 data-i18n="c5">Islamic Studies</h3><p data-i18n="c5d">Learn Islamic values and teachings.</p></div>
+      <div class="card"><div class="ic">🤲</div><h3 data-i18n="c6">Daily Duas &amp; Kalimas</h3><p data-i18n="c6d">Essential duas and kalimas for kids.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- WHY -->
+<section class="why">
+  <div class="container">
+    <h2 class="title center light" data-i18n="why_t">Why Choose Noor ul Quran Academy?</h2>
+    <div class="why-grid">
+      <div><span>👨‍🏫</span><p data-i18n="w1">Male &amp; Female Teachers Available</p></div>
+      <div><span>👥</span><p data-i18n="w2">One-to-One Live Classes</p></div>
+      <div><span>🛡️</span><p data-i18n="w3">Safe &amp; Secure Learning Environment</p></div>
+      <div><span>📋</span><p data-i18n="w4">Monthly Progress Reports</p></div>
+      <div><span>💲</span><p data-i18n="w5">Affordable Fee Packages</p></div>
+      <div><span>🕒</span><p data-i18n="w6">Flexible Timings for All Countries</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- TEACHERS -->
+<section class="section" id="teachers">
+  <div class="container">
+    <h2 class="title center" data-i18n="teach_t"> Teacher</h2>
+    <div class="grid3">
+      <div class="teacher">
+        
+      
+      <div class="teacher">
+        <div class="avatar"><img src="teacher3.jpg" alt="" onerror="this.style.display='none'"></div>
+        <h3>Hafiz Ishaq</h3><p data-i18n="t3">Hifz,Tajweed Teacher – 4 years experience</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- REVIEWS -->
+<section class="section alt" id="reviews">
+  <div class="container">
+    <h2 class="title center" data-i18n="rev_t">What Parents &amp; Students Say</h2>
+    <div class="grid3">
+      <div class="review">
+        <div class="stars">★★★★★</div>
+        <p data-i18n="r1">"The teachers are very kind and patient. My son has improved so much in Quran reading. Highly recommended!"</p>
+        <div class="who"><div class="av">F</div><div><b>Fatima Khan</b><br><small>Italy</small></div></div>
+      </div>
+      <div class="review">
+        <div class="stars">★★★★★</div>
+        <p data-i18n="r2">"Excellent academy! My daughter is learning Hifz with Tajweed and we are very happy with the progress."</p>
+        <div class="who"><div class="av">A</div><div><b>Ahmed Raza</b><br><small>Germany</small></div></div>
+      </div>
+      <div class="review">
+        <div class="stars">★★★★★</div>
+        <p data-i18n="r3">"Best online Quran classes for kids. Teachers are professional and classes are well organized."</p>
+        <div class="who"><div class="av">A</div><div><b>Ayesha Malik</b><br><small>France</small></div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PRICING -->
+<section class="section" id="pricing">
+  <div class="container">
+    <h2 class="title center" data-i18n="price_t">Affordable Fee Packages</h2>
+    <div class="grid3">
+      <div class="plan">
+        <h3 data-i18n="p1">3 Days / Week</h3>
+        <div class="price">$20<small data-i18n="mo">/month</small></div>
+        <ul><li data-i18n="pf1">30 min per class</li><li data-i18n="pf2">One-to-One Live</li><li data-i18n="pf3">Monthly Report</li></ul>
+        <a href="#contact" class="btn btn-outline" data-i18n="btn_trial2">Start Free Trial</a>
+      </div>
+      <div class="plan featured">
+        <div class="badge" data-i18n="popular">Most Popular</div>
+        <h3 data-i18n="p2">Nazra & Tajweed</h3>
+        <div class="price">$30<small data-i18n="mo">/month</small></div>
+        <ul><li data-i18n="pf1">30 min per class</li><li data-i18n="pf2">One-to-One Live</li><li data-i18n="pf3">Monthly Report</li></ul>
+        <a href="#contact" class="btn btn-dark" data-i18n="btn_trial2">Start Free Trial</a>
+      </div>
+      <div class="plan">
+        <h3 data-i18n="p3">Hifz Program</h3>
+        <div class="price">$40<small data-i18n="mo">/month</small></div>
+        <ul><li data-i18n="pf4">45 min per class</li><li data-i18n="pf2">One-to-One Live</li><li data-i18n="pf3">Monthly Report</li></ul>
+        <a href="#contact" class="btn btn-outline" data-i18n="btn_trial2">Start Free Trial</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA + CONTACT -->
+<section class="section alt" id="contact">
+  <div class="container contact-in">
+    <div class="cta">
+      <div class="cta-img"><img src="quran.jpg" alt="" onerror="this.style.display='none'"></div>
+      <div class="cta-text">
+        <h2 data-i18n="cta_t">Start Your Quran Journey Today!</h2>
+        <p data-i18n="cta_p">Book your FREE Trial Class and experience quality Quran education from home.</p>
+        <a href="#contact" class="btn btn-gold" data-i18n="btn_trial2">Book Free Trial Class</a>
+        <a href="https://wa.me/+35193288164" target="_blank" class="btn btn-white" data-i18n="btn_wa">💬 Chat on WhatsApp</a>
+      </div>
+    </div>
+
+    <div class="contact-box">
+      <h3 data-i18n="contact_t">Contact Us</h3>
+      <p>📞 +35193288164</p>
+      <p>✉️ info@noorulquranofficial@gmail.com</p>
+      <p>🌐 Noor ul Quran Academy</p>
+      <p>🌍 <span data-i18n="serving">Serving Students All Euorope</span></p>
+      <form id="form">
+        <input type="text" id="fname" data-ph="ph_name" placeholder="Your Name" required>
+        <input type="tel" id="fphone" data-ph="ph_phone" placeholder="WhatsApp Number" required>
+        <button class="btn btn-dark" type="submit" data-i18n="send">Send on WhatsApp</button>
+      </form>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <div class="container foot-in">
+    <div class="brand light">
+      <div>
+        <div class="brand-name">Noor ul Quran</div>
+        <div class="brand-sub" data-i18n="brand_sub">ACADEMY</div>
+      </div>
+    </div>
+    <div class="quote">
+      <div class="ar">خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ</div>
+      <small data-i18n="hadith">The best of you are those who learn the Quran and teach it. (Sahih Bukhari)</small>
+    </div>
+  </div>
+  <div class="copy">© 2026 Noor ul Quran Academy. <span data-i18n="rights">All Rights Reserved.</span></div>
+</footer>
+
+<a class="wa-float" href="https://wa.me/923000000000" target="_blank" aria-label="WhatsApp">💬</a>
+
+<script src="script.js"></script>
+</body>
+</html>
