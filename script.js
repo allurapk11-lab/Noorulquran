@@ -1,9 +1,9 @@
 // ====== CHANGE THIS to your WhatsApp number (country code, no + or spaces) ======
-const WHATSAPP = "923000000000";
+const WHATSAPP = "+351932881644";
 
 const T = {
   en: {
-    serving:"Serving Students Worldwide", brand_sub:"ACADEMY",
+    serving:"Serving Students All Euorope", brand_sub:"ACADEMY",
     nav_home:"Home", nav_about:"About Us", nav_courses:"Courses", nav_teachers:"Teachers", nav_reviews:"Reviews", nav_pricing:"Pricing", nav_contact:"Contact Us",
     btn_trial:"📅 Book Free Trial Class", btn_trial2:"Book Free Trial Class", btn_wa:"💬 Chat on WhatsApp",
     h1a:"Learn Quran Online", h1b:"with Tajweed",
@@ -13,7 +13,7 @@ const T = {
     st1:"Happy Students", st2:"Qualified Teachers", st3:"Countries", st4:"Support",
     about_t:"About Noor ul Quran Academy",
     about_p1:"Noor ul Quran Academy offers authentic Quran education from the comfort of your home. Our qualified teachers teach with patience, love and proper Tajweed.",
-    about_p2:"We welcome children and adults from all over the world, with flexible timings, personal attention and monthly progress reports.",
+    about_p2:"We welcome children and adults from all over the euorope, with flexible timings, personal attention and monthly progress reports.",
     courses_t:"Our Courses",
     c1:"Noorani Qaida", c1d:"Perfect for beginners of all ages.",
     c2:"Quran Reading", c2d:"Learn to read Quran fluently.",
@@ -22,10 +22,10 @@ const T = {
     c5:"Islamic Studies", c5d:"Learn Islamic values and teachings.",
     c6:"Daily Duas & Kalimas", c6d:"Essential duas and kalimas for kids.",
     why_t:"Why Choose Noor ul Quran Academy?",
-    w1:"Male & Female Teachers Available", w2:"One-to-One Live Classes", w3:"Safe & Secure Learning Environment",
+    w1:"Qualified Male Teacher", w2:"One-to-One Live Classes", w3:"Safe & Secure Learning Environment",
     w4:"Monthly Progress Reports", w5:"Affordable Fee Packages", w6:"Flexible Timings for All Countries",
     teach_t:"Our Teachers",
-    t1:"Qari & Hafiz – 10 years experience", t2:"Tajweed Specialist – Female Teacher", t3:"Hifz Teacher – 8 years experience",
+    t1:"Qari & Hafiz – 8 years experience", t2:"Tajweed Specialist – Female Teacher", t3:"Hifz Teacher – 8 years experience",
     rev_t:"What Parents & Students Say",
     r1:"\"The teachers are very kind and patient. My son has improved so much in Quran reading. Highly recommended!\"",
     r2:"\"Excellent academy! My daughter is learning Hifz with Tajweed and we are very happy with the progress.\"",
